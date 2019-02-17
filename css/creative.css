@@ -59,6 +59,10 @@
   box-sizing: border-box;
 }
 
+.positionqueijo{
+  padding-bottom: 12pk;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
